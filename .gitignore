@@ -64,4 +64,4 @@ xcuserdata/
 !*.xcodeproj/xcshareddata/
 !*.xcworkspace/contents.xcworkspacedata
 /*.gcno
-.DS_Store
+*.DS_Store
